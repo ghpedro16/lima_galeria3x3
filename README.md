@@ -13,5 +13,5 @@ Primeira galeria criada durante as aulas da disciplina Linguagem de Marcação n
 * Markdown
 
 ## Autor
-[Pedro Henrique]()# lima_galeria3x3
+[Pedro Henrique]()
 # lima_galeria3x3
